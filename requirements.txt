@@ -1,0 +1,11 @@
+requests
+urllib3
+termcolor
+pyfiglet
+colorama
+datetime
+sys
+time
+re
+os
+colored
